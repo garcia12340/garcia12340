@@ -13,5 +13,5 @@
 
 |Programming languages|Frontend|Backend|
 |---|---|---|
-[C#](https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white) |[C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)|
+|<img src="https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white)"/>![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)|
 
