@@ -17,7 +17,7 @@
 
 |RDBMS|Dev Tools|
 |---|---|
-<img src="https://img.shields.io/badge/sqlserver-7b5253.svg?style=for-the-badge&logo=&logoColor=white"/> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/visual%20studio-blue?logo=cplusplus"/>  | |
+<img src="https://img.shields.io/badge/sqlserver-7b5253.svg?style=for-the-badge&logo=&logoColor=white"/> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/visual%20code-blue?logo=cplusplus"/>  | |
 
 ## 📈My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reduhq&show_icons=true&theme=city_lights)](https://github.com/ivangcode/github-readme-stats)|![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=reduhq&theme=react&show_icons=true&hide=contribs,prs)|
