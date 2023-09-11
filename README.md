@@ -13,5 +13,5 @@
 
 |Programming languages|Frontend|Backend|
 |---|---|---|
-|<img src="https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white)"/>![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)|
+|<img src="https://img.shields.io/badge/python-3474a7.svg?style=for-the-badge&logo=python&logoColor=white"/>![C#](https://img.shields.io/badge/CSharp-603278.svg?style=for-the-badge&logo=csharp&logoColor=white) | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  ![vite](https://img.shields.io/badge/vite-f8a621.svg?style=for-the-badge&logo=vite&logoColor=white)|<img src="https://img.shields.io/badge/fastapi-009789.svg?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/drf-0f3d2d.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/flask-193449.svg?style=for-the-badge&logo=flask&logoColor=white" /> | |
 
