@@ -9,3 +9,8 @@
     </p>
 </div>
 
+## ⚙ My stack technologies
+
+|Programming languages|Frontend|Backend|
+
+
