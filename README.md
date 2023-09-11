@@ -1,5 +1,5 @@
 <div align="center">      
-    <h1>Hi, I am <a href="www.linkedin.com/in/ricardo-salvador-garcia-cruz-79215b1b0" target="_blank">Ricardo Garcia</a>   
+    <h1>Hi, I am <a href="https://www.linkedin.com/in/ ricardo-salvador-garcia-cruz-79215b1b0" target="_blank">Ricardo Garcia</a>   
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
     </h1> 
 </div>  
