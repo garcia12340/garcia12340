@@ -22,6 +22,3 @@
 ## 📈My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reduhq&show_icons=true&theme=city_lights)](https://github.com/ivangcode/github-readme-stats)|![Rey's GitHub stats](https://github-readme-stats.vercel.app/api?username=reduhq&theme=react&show_icons=true&hide=contribs,prs)|
 |---|---|
-
-
-
