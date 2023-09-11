@@ -8,7 +8,7 @@
     <p>Joined Github <span style="font-weight: bold">3</span> years ago.
     </p>
 </div>
-<img src="https://es.pngtree.com/freebackground/matrix-code-abstract-programming-background_1593627.html">
+<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
 
 ## ⚙ My stack technologies
 
