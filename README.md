@@ -8,6 +8,7 @@
     <p>Joined Github <span style="font-weight: bold">3</span> years ago.
     </p>
 </div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 ## ⚙ My stack technologies
 
