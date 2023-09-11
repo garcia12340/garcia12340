@@ -8,7 +8,7 @@
     <p>Joined Github <span style="font-weight: bold">3</span> years ago.
     </p>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.pinterest.com.mx/pin/el-temach--922534304896173256/">
 
 ## ⚙ My stack technologies
 
