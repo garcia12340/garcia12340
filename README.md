@@ -5,6 +5,6 @@
 </div>  
 <div align="left"> 
     <p style="font-size: 20px">I'm a desktop and web developer. I am always looking for new ways to improve my skills and learn new things. I am passionate about programming and I love creating new applications. I am very curious by nature, history and I am always looking for new challenges 🤓. I love working as a team and collaborating with other developers to find new experiences. I am always willing to help others and share my knowledge 😃.</p> 
-    <p>Joined Github <span style="font-weight: bold">4</span> years ago.
+    <p>Joined Github <span style="font-weight: bold">3</span> years ago.
     </p>
 </div>
