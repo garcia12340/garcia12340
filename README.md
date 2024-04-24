@@ -8,7 +8,7 @@
     <p>Joined Github <span style="font-weight: bold">3</span> years ago.
     </p>
 </div>
-<img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png">
+<img src="https://www.delftstack.com/img/React/feature-image---background-image-react.webp">
 
 ## ⚙ My stack technologies
 
